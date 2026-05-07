@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Olá, eu sou Francisco Mazim 👋
-
+# Linkedin https://www.linkedin.com/in/mazim-costa-699696301/
 ### Python Developer | Automação & Dados
 
 Profissional em transição para desenvolvimento, com background em
