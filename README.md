@@ -1,92 +1,155 @@
-## Hi there 👋
-# Olá, eu sou Francisco Mazim 👋
-# Linkedin https://www.linkedin.com/in/mazim-costa-699696301/
-### Python Developer | Automação & Dados
+<h1 align="center">Olá 👋, eu sou Francisco Mazim</h1>
 
-Profissional em transição para desenvolvimento, com background em
-análise de dados e gestão administrativa no setor público (IBGE e OAB).
-Atualmente construindo expertise em Python com foco em automação de
-processos e engenharia de dados.
+<h3 align="center">
+Backend Python • Engenharia de Dados • SQL
+</h3>
+
+<p align="center">
+Em transição para Engenharia de Dados, construindo projetos práticos focados em arquitetura, qualidade de código e pipelines de dados.
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Estácio de Sá
-- 🎓 Cursando **Administração** — UniAnchieta
-- 💼 Experiência prévia em **coleta, validação e análise de dados** no IBGE
-- 🐍 Atualmente estudando **Python** com foco em automação e dados
-- 📍 Fortaleza, CE — disponível para remoto
+- 💻 Desenvolvendo projetos reais de Engenharia de Dados
+- 🐍 Python como linguagem principal
+- 🗄️ PostgreSQL para persistência e modelagem de dados
+- 📊 SQL para transformação e análise
+- 🧪 Aprendendo testes automatizados com Pytest
+- 📚 Estudando Arquitetura Medalhão, Pipeline Incremental e Engenharia de Software
 
 ---
 
-## 🛠️ Stack em construção
+## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
 
-**Próximos passos:**
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+</p>
 
----
+<p align="center">
 
-## 📂 Projetos
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-### 🔧 Em desenvolvimento
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Exercícios Fase 1](link_do_repo) | Exercícios práticos de Python — validação de dados, processamento de arquivos, POO | Python |
-| Sistema de Fiado | Sistema de controle de crédito para comércios locais *(em breve)* | Python + MySQL |
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📈 Trilha de estudos — 24 meses
+## 📈 GitHub
 
-```
-✅ Python intermediário — POO, arquivos, módulos
-✅ Git e GitHub
-🔄 MySQL + Python
-⏳ FastAPI — Backend
-⏳ Selenium — Automação Web
-⏳ Pandas — Análise de Dados
-⏳ Streamlit — Dashboards
-⏳ ETL e Pipelines
-⏳ Docker + AWS
-```
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mazimcosta&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazimcosta&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🧠 Background que me diferencia
+## 🔥 Sequência de Contribuições
 
-Antes de migrar para tecnologia, trabalhei no **IBGE** como agente
-de pesquisa e supervisor — coletando, validando e analisando dados
-econômicos com rigor técnico e prazos rígidos.
+<p align="center">
 
-Essa experiência me dá uma visão diferente do dado: não só como
-processá-lo tecnicamente, mas entender o que ele representa e
-por que a qualidade importa.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mazimcosta&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mazimcosta&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🚀 Projeto Principal
+
+## Pipeline de Engenharia de Dados
+
+### Principais funcionalidades
+
+✔ Pipeline Incremental
+
+✔ Arquitetura Medalhão
+
+✔ Bronze
+
+✔ Silver
+
+✔ Gold
+
+✔ PostgreSQL
+
+✔ Pandas
+
+✔ Pydantic
+
+✔ Logging
+
+✔ Tratamento de Dados
+
+✔ Validação de Dados
+
+✔ Testes Automatizados
+
+---
+
+## 📚 Roadmap Atual
+
+### Concluído
+
+- ✅ Python
+- ✅ SQL
+- ✅ PostgreSQL
+- ✅ Pandas
+- ✅ Arquitetura Medalhão
+- ✅ Pipeline Incremental
+- ✅ Pydantic
+- ✅ Logging
+
+### Em andamento
+
+- 🧪 Testes Automatizados
+
+### Próximos passos
+
+- 📦 Docker
+- ⚙️ Airflow
+- 🌱 dbt
+- ⚡ Spark
+- ☁️ AWS
 
 ---
 
 ## 📫 Contato
 
-<!--
-**mazimcosta/mazimcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/mazim-costa-699696301/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+---
+
+<p align="center">
+
+<i>
+"O aprendizado acontece construindo projetos."
+</i>
+
+</p>
